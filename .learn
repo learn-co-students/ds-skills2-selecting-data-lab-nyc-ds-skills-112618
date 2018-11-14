@@ -1,0 +1,13 @@
+tags:
+  - jupyter
+  - sql
+  - create
+  - insert
+  - alter
+  - delete
+
+languages: sql
+
+jupyter_notebook: true
+
+resources: 0
